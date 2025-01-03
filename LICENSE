@@ -23,6 +23,14 @@
       "You" (or "Your") shall mean an individual or Legal Entity
       exercising permissions granted by this License.
 
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
+
       "Source" form shall mean the preferred form for making modifications,
       including but not limited to software source code, documentation
       source, and configuration files.
